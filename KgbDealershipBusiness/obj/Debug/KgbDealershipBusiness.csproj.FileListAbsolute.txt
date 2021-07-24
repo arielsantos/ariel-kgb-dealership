@@ -1,0 +1,9 @@
+D:\Ariel\Projetos\ariel-kgb-dealership\KgbDealershipBusiness\bin\Debug\KgbDealershipBusiness.dll
+D:\Ariel\Projetos\ariel-kgb-dealership\KgbDealershipBusiness\bin\Debug\KgbDealershipBusiness.pdb
+D:\Ariel\Projetos\ariel-kgb-dealership\KgbDealershipBusiness\obj\Debug\KgbDealershipBusiness.csprojAssemblyReference.cache
+D:\Ariel\Projetos\ariel-kgb-dealership\KgbDealershipBusiness\obj\Debug\KgbDealershipBusiness.dll
+D:\Ariel\Projetos\ariel-kgb-dealership\KgbDealershipBusiness\obj\Debug\KgbDealershipBusiness.pdb
+D:\Ariel\Projetos\ariel-kgb-dealership\KgbDealershipBusiness\bin\Debug\HtmlAgilityPack.dll
+D:\Ariel\Projetos\ariel-kgb-dealership\KgbDealershipBusiness\bin\Debug\HtmlAgilityPack.pdb
+D:\Ariel\Projetos\ariel-kgb-dealership\KgbDealershipBusiness\bin\Debug\HtmlAgilityPack.xml
+D:\Ariel\Projetos\ariel-kgb-dealership\KgbDealershipBusiness\obj\Debug\KgbDealershipBusiness.csproj.CopyComplete

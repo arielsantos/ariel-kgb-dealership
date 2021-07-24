@@ -1,0 +1,15 @@
+D:\Ariel\Projetos\ariel-kgb-dealership\KGBDealership\bin\Debug\netcoreapp3.1\KGBDealership.exe
+D:\Ariel\Projetos\ariel-kgb-dealership\KGBDealership\bin\Debug\netcoreapp3.1\KGBDealership.deps.json
+D:\Ariel\Projetos\ariel-kgb-dealership\KGBDealership\bin\Debug\netcoreapp3.1\KGBDealership.runtimeconfig.json
+D:\Ariel\Projetos\ariel-kgb-dealership\KGBDealership\bin\Debug\netcoreapp3.1\KGBDealership.runtimeconfig.dev.json
+D:\Ariel\Projetos\ariel-kgb-dealership\KGBDealership\bin\Debug\netcoreapp3.1\KGBDealership.dll
+D:\Ariel\Projetos\ariel-kgb-dealership\KGBDealership\bin\Debug\netcoreapp3.1\KGBDealership.pdb
+D:\Ariel\Projetos\ariel-kgb-dealership\KGBDealership\obj\Debug\netcoreapp3.1\KGBDealership.csprojAssemblyReference.cache
+D:\Ariel\Projetos\ariel-kgb-dealership\KGBDealership\obj\Debug\netcoreapp3.1\KGBDealership.AssemblyInfoInputs.cache
+D:\Ariel\Projetos\ariel-kgb-dealership\KGBDealership\obj\Debug\netcoreapp3.1\KGBDealership.AssemblyInfo.cs
+D:\Ariel\Projetos\ariel-kgb-dealership\KGBDealership\obj\Debug\netcoreapp3.1\KGBDealership.dll
+D:\Ariel\Projetos\ariel-kgb-dealership\KGBDealership\obj\Debug\netcoreapp3.1\KGBDealership.pdb
+D:\Ariel\Projetos\ariel-kgb-dealership\KGBDealership\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+D:\Ariel\Projetos\ariel-kgb-dealership\KGBDealership\obj\Debug\netcoreapp3.1\KGBDealership.csproj.CopyComplete
+D:\Ariel\Projetos\ariel-kgb-dealership\KGBDealership\bin\Debug\netcoreapp3.1\KgbDealershipBusiness.dll
+D:\Ariel\Projetos\ariel-kgb-dealership\KGBDealership\bin\Debug\netcoreapp3.1\KgbDealershipBusiness.pdb
